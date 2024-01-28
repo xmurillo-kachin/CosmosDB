@@ -7,21 +7,21 @@
         "types":[
             {
                 "typeId": "ef39cda1-5b7c-44b8-bf33-cc2ac24102a9",
-                "typeName": "Países",
+                "typeName": "País",
                 "typeDescription": "Datos de los países del mundo.",
                 "Keywords": ["países", "paises", "país", "pais", "country", "countries"],
                 "parentTypeId": null
             },
             {
                 "typeId": "af5c3565-c4f4-499d-86c9-ee73d0cf2bb6",
-                "typeName": "Estados",
+                "typeName": "Estad",
                 "typeDescription": "Datos de los estados del mundo.",
-                "Keywords": ["estados", "provincias", "provincia", "estados", "states", "state"],
+                "Keywords": ["estados", "provincias", "provincia", "estado", "states", "state"],
                 "parentTypeId": "ef39cda1-5b7c-44b8-bf33-cc2ac24102a9"
             },
             {
                 "typeId": "cca9da7f-8905-42e9-be14-ece15eaae30d",
-                "typeName": "Ciudades",
+                "typeName": "Ciudad",
                 "typeDescription": "Datos de las ciudades del mundo.",
                 "Keywords": ["ciudades", "condados", "municipios", "cantones", "ciudad", "condado", "municipio", "cantón", "cities", "county", "counties", "municipality", "municipalities", "canton", "cantons"],
                 "parentTypeId": "af5c3565-c4f4-499d-86c9-ee73d0cf2bb6"

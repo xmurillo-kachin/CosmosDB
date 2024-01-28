@@ -3,7 +3,7 @@
         "categoryId": "d0fa7be9-e3b3-406b-b1b7-446bd12487e9",
         "categoryName": "Geográficos",
         "typeId": "ef39cda1-5b7c-44b8-bf33-cc2ac24102a9",
-        "typeName": "Países",
+        "typeName": "País",
         "Id": "4cd5beea-644c-4f9d-b76d-31dd43d88c80",
         "key": "US",
         "value": "Estados Unidos",
@@ -12,7 +12,7 @@
         "childItems": [
             {
                 "typeId": "af5c3565-c4f4-499d-86c9-ee73d0cf2bb6",
-                "typeName": "Estados",
+                "typeName": "Estad",
                 "Id": "ec65af5c-7f5d-439b-8b16-99a20dc2bd65",
                 "key": "FL",
                 "value": "Florida",
@@ -21,7 +21,7 @@
                 "childItems": [
                     {
                         "typeId": "cca9da7f-8905-42e9-be14-ece15eaae30d",
-                        "typeName": "Ciudades",
+                        "typeName": "Ciudad",
                         "Id": "caaf2159-71d8-4d9f-8cd0-0bc6877a2c5b",
                         "key": "MIA",
                         "value": "Miami",
