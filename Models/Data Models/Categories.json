@@ -1,0 +1,53 @@
+[
+    {
+        "categoryId": "d0fa7be9-e3b3-406b-b1b7-446bd12487e9",
+        "categoryName": "Geográficos",
+        "categoryDescription": "Datos geográficos del mundo.",
+        "Keywords": ["geografía", "geográficos", "geográfico", "geográfica", "geográficas", "geograficos", "geografico", "geografica", "geograficas", "geography", "geographics", "geographic", "geographical", "geographics"],
+        "types":[
+            {
+                "typeId": "ef39cda1-5b7c-44b8-bf33-cc2ac24102a9",
+                "typeName": "Países",
+                "typeDescription": "Datos de los países del mundo.",
+                "Keywords": ["países", "paises", "país", "pais", "country", "countries"],
+                "parentTypeId": null
+            },
+            {
+                "typeId": "af5c3565-c4f4-499d-86c9-ee73d0cf2bb6",
+                "typeName": "Estados",
+                "typeDescription": "Datos de los estados del mundo.",
+                "Keywords": ["estados", "provincias", "provincia", "estados", "states", "state"],
+                "parentTypeId": "ef39cda1-5b7c-44b8-bf33-cc2ac24102a9"
+            },
+            {
+                "typeId": "cca9da7f-8905-42e9-be14-ece15eaae30d",
+                "typeName": "Ciudades",
+                "typeDescription": "Datos de las ciudades del mundo.",
+                "Keywords": ["ciudades", "condados", "municipios", "cantones", "ciudad", "condado", "municipio", "cantón", "cities", "county", "counties", "municipality", "municipalities", "canton", "cantons"],
+                "parentTypeId": "af5c3565-c4f4-499d-86c9-ee73d0cf2bb6"
+            }
+        ]
+    },
+    {
+        "categoryId": "e5541c87-23c0-466f-ae59-53816b1520a7",
+        "categoryName": "Demográficos",
+        "categoryDescription": "Datos demográficos del mundo.",
+        "Keywords": ["demografía", "demográficos", "demográfico", "demográfica", "demográficas", "demograficos", "demografico", "demografica", "demograficas", "demography", "demographics", "demographic", "demographical", "demographics"],
+        "types":[
+            {
+                "typeId": "9bf39bc9-88a3-470d-a735-ef97b01be7d9",
+                "typeName": "Sexo",
+                "typeDescription": "Sexo de las personas.",
+                "Keywords": ["sexo", "sex"],
+                "parentTypeId": null
+            },
+            {
+                "typeId": "f5eccd35-ec1c-40ec-945c-a8698ec89961",
+                "typeName": "Estado civil",
+                "typeDescription": "Estado civil de las personas.",
+                "Keywords": ["estado civil", "civil status", "marital status"],
+                "parentTypeId": null
+            }
+        ]
+    }
+]

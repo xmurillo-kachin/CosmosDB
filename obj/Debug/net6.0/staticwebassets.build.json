@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "yTiLv8Znw57hOF+mvTrtwvEnFx5SLx/nF76w0MIoEIM=",
+  "Source": "CosmosDB",
+  "BasePath": "_content/CosmosDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CosmosDB\\wwwroot",
+      "Source": "CosmosDB",
+      "ContentRoot": "C:\\Azure\\CosmosDB\\wwwroot\\",
+      "BasePath": "_content/CosmosDB",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Azure\\CosmosDB\\wwwroot\\favicon.ico",
+      "SourceId": "CosmosDB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Azure\\CosmosDB\\wwwroot\\",
+      "BasePath": "_content/CosmosDB",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Azure\\CosmosDB\\wwwroot\\icon.png",
+      "SourceId": "CosmosDB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Azure\\CosmosDB\\wwwroot\\",
+      "BasePath": "_content/CosmosDB",
+      "RelativePath": "icon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icon.png"
+    }
+  ]
+}
